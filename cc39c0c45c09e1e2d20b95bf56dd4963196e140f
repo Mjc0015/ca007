@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_d1184577",
+        "filename": "order.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 1004798
+      },
+      "writtenOn": "2015-04-28T15:03:25Z",
+      "side": 1,
+      "message": "o is too vague",
+      "range": {
+        "startLine": 76,
+        "startChar": 30,
+        "endLine": 76,
+        "endChar": 31
+      },
+      "revId": "cc39c0c45c09e1e2d20b95bf56dd4963196e140f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
