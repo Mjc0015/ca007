@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_3185595a",
+        "filename": "orderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004750
+      },
+      "writtenOn": "2015-04-28T15:20:20Z",
+      "side": 1,
+      "message": "I would recommend to change this variable name into market",
+      "range": {
+        "startLine": 16,
+        "startChar": 8,
+        "endLine": 16,
+        "endChar": 15
+      },
+      "revId": "ab128ce7d4f1fec28a04fb323bcf1f1461c3d9ce",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_11665dc1",
+        "filename": "orderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 1004750
+      },
+      "writtenOn": "2015-04-28T15:20:20Z",
+      "side": 1,
+      "message": "change this variable name into a more revealable name to describe what it does.",
+      "range": {
+        "startLine": 169,
+        "startChar": 8,
+        "endLine": 169,
+        "endChar": 14
+      },
+      "revId": "ab128ce7d4f1fec28a04fb323bcf1f1461c3d9ce",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_f16aa17f",
+        "filename": "orderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 187,
+      "author": {
+        "id": 1004750
+      },
+      "writtenOn": "2015-04-28T15:20:20Z",
+      "side": 1,
+      "message": "change those two variable names into more revealable names to describe what they do.",
+      "range": {
+        "startLine": 186,
+        "startChar": 5,
+        "endLine": 187,
+        "endChar": 13
+      },
+      "revId": "ab128ce7d4f1fec28a04fb323bcf1f1461c3d9ce",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
