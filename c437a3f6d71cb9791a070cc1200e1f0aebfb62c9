@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_a4fbc9bf",
+        "filename": "trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1004799
+      },
+      "writtenOn": "2015-04-28T17:07:11Z",
+      "side": 1,
+      "message": "This method could be moved to a get and set class in order to make the flow of this class class better.",
+      "revId": "c437a3f6d71cb9791a070cc1200e1f0aebfb62c9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_2429998a",
         "filename": "trader.java",
         "patchSetId": 2
@@ -30,6 +47,23 @@
       "writtenOn": "2015-04-28T16:15:15Z",
       "side": 1,
       "message": "variable name mMarket is unclear, what does the m stand for?",
+      "revId": "c437a3f6d71cb9791a070cc1200e1f0aebfb62c9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_04be1db4",
+        "filename": "trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 1004799
+      },
+      "writtenOn": "2015-04-28T17:07:11Z",
+      "side": 1,
+      "message": "Comment is needed here to explain what is happening",
       "revId": "c437a3f6d71cb9791a070cc1200e1f0aebfb62c9",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
