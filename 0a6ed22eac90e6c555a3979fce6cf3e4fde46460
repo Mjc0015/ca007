@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_118add69",
+        "filename": "sellOrder.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1004798
+      },
+      "writtenOn": "2015-04-28T15:13:37Z",
+      "side": 1,
+      "message": "don\u0027t need this blank line",
+      "revId": "0a6ed22eac90e6c555a3979fce6cf3e4fde46460",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_717b517b",
+        "filename": "sellOrder.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1004798
+      },
+      "writtenOn": "2015-04-28T15:13:37Z",
+      "side": 1,
+      "message": "dont need this blank line",
+      "revId": "0a6ed22eac90e6c555a3979fce6cf3e4fde46460",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
