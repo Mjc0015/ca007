@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_17748834",
+        "filename": "market.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1004740
+      },
+      "writtenOn": "2015-04-29T10:41:30Z",
+      "side": 1,
+      "message": "Minor formatting problem. Consider fixing so that the code looks cleaner.",
+      "range": {
+        "startLine": 34,
+        "startChar": 42,
+        "endLine": 36,
+        "endChar": 64
+      },
+      "revId": "c098d8a4688a6dd86ed41b30c89ca8476278a3a6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
