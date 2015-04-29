@@ -22,6 +22,29 @@
       "revId": "eb2eef09a050e017f87e5b1aded5f68214701633",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_fa1a71c4",
+        "filename": "orderUtility.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:16:04Z",
+      "side": 1,
+      "message": "\u0027is\u0027 prefix should be used for boolean methods.",
+      "range": {
+        "startLine": 26,
+        "startChar": 23,
+        "endLine": 26,
+        "endChar": 27
+      },
+      "revId": "eb2eef09a050e017f87e5b1aded5f68214701633",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
