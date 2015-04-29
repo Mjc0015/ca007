@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_5ac90525",
+        "filename": "buyOrder.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:20:27Z",
+      "side": 1,
+      "message": "Remove this comment.",
+      "range": {
+        "startLine": 9,
+        "startChar": 2,
+        "endLine": 10,
+        "endChar": 27
+      },
+      "revId": "4807a04e4d7a42d30e1ee745afbec288962872ed",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_7ad4c1bc",
+        "filename": "buyOrder.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:20:27Z",
+      "side": 1,
+      "message": "Remove this comment.",
+      "range": {
+        "startLine": 19,
+        "startChar": 2,
+        "endLine": 24,
+        "endChar": 62
+      },
+      "revId": "4807a04e4d7a42d30e1ee745afbec288962872ed",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
