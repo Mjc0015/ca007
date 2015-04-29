@@ -22,6 +22,29 @@
       "revId": "c1613ba53df79f39ec1f71c661a6acb2e7729a40",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_9a589d8b",
+        "filename": "marketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:17:50Z",
+      "side": 1,
+      "message": "This comment could be worded better.",
+      "range": {
+        "startLine": 50,
+        "startChar": 3,
+        "endLine": 50,
+        "endChar": 5
+      },
+      "revId": "c1613ba53df79f39ec1f71c661a6acb2e7729a40",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
