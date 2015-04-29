@@ -16,6 +16,57 @@
       "revId": "df36f4e228ac040f1ba58ae80ed897006dd07962",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_266074ce",
+        "filename": "trader.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1004805
+      },
+      "writtenOn": "2015-04-29T19:24:25Z",
+      "side": 1,
+      "message": "Consider removing or breaking up large comments",
+      "revId": "df36f4e228ac040f1ba58ae80ed897006dd07962",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_065d7815",
+        "filename": "trader.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1004805
+      },
+      "writtenOn": "2015-04-29T19:24:25Z",
+      "side": 1,
+      "message": "Consider removing or breaking up large comments",
+      "revId": "df36f4e228ac040f1ba58ae80ed897006dd07962",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_669d4cbc",
+        "filename": "trader.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1004805
+      },
+      "writtenOn": "2015-04-29T19:24:25Z",
+      "side": 1,
+      "message": "Consider removing or breaking up large comments",
+      "revId": "df36f4e228ac040f1ba58ae80ed897006dd07962",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
