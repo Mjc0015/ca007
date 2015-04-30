@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_cc7095de",
+        "filename": "orderUtility.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T16:27:36Z",
+      "side": 1,
+      "message": "change nested if (if(cond1){if(cond2){..}}) into one if with 2 conditions (if(cond1 \u0026\u0026 cond2){..})",
+      "revId": "f234799bd654432f20882b5d78470fce6111d25a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
