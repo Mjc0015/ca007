@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_4c530539",
+        "filename": "orderBook.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T16:33:27Z",
+      "side": 1,
+      "message": "Too many unnecessary slashes in the comment. You only need 2 slashes in front of \"Calculating\".",
+      "revId": "697dff7b4160dd2f137566a9423b4aceae17e725",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_0c246dc3",
+        "filename": "orderBook.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T16:33:27Z",
+      "side": 1,
+      "message": "Too many unnecessary slashes in the comment. You only need 2 slashes in front of \"Calculating\".",
+      "revId": "697dff7b4160dd2f137566a9423b4aceae17e725",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
